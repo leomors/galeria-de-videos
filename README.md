@@ -1,1 +1,1 @@
-# galeria-de-videos
+# Galeria de arquivos de vídeo simples com NodeJS.
